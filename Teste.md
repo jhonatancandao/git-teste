@@ -2,4 +2,6 @@
 
 ENGENHARIA DE SOFTWARE - Profº Me. Jorge Marques Prates
 
-3º ano Licenciatura, Computação
+3º ano Computação, Licenciatura
+
+UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL - UEMS
